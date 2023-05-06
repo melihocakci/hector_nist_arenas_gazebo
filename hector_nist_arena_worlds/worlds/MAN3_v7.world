@@ -1068,7 +1068,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/elevated_floor_120.dae</uri>
+              <uri>file://elevated_floor_120.dae</uri>
               <scale>1 1 0.5</scale>
             </mesh>
           </geometry>
@@ -1149,7 +1149,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/elevated_floor_120.dae</uri>
+              <uri>file://elevated_floor_120.dae</uri>
               <scale>1 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -1237,7 +1237,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/fiducial_barrel.dae</uri>
+              <uri>file://fiducial_barrel.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1318,7 +1318,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/fiducial_barrel.dae</uri>
+              <uri>file://fiducial_barrel.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1399,7 +1399,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/simple_elev_ramp_line_better_quality.dae</uri>
+              <uri>file://simple_elev_ramp_line_better_quality.dae</uri>
               <scale>1 1 0.5</scale>
             </mesh>
           </geometry>
@@ -1480,7 +1480,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/lengthening_man3.dae</uri>
+              <uri>file://lengthening_man3.dae</uri>
               <scale>1 1 0.5</scale>
             </mesh>
           </geometry>
@@ -1561,7 +1561,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/omtk/rtg_ws/src/hector_nist_arenas_gazebo/hector_nist_arena_elements/Media/models/lengthening_man3_bottom.dae</uri>
+              <uri>file://lengthening_man3_bottom.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
